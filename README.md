@@ -4,7 +4,7 @@ California State Polytechnic University, Pomona (Cal Poly Pomona, CPP)\
 College of Engineering\
 Department of Electrical and Computer Engineering (ECE Department)
 
-The Unmanned Hybrid Vehicle (UHV) combines a drone (Unmanned Aerial Vehicle; UAV) and rover (Unmanned Ground Vehicle; UGV).
+The Unmanned Hybrid Vehicle (UHV) combines a drone (Unmanned Aerial Vehicle; UAV) and rover (Unmanned Ground Vehicle; UGV). See the design review papers (PDF documents) for more information.
 
 I unfortunately don't have any other files to share. If you're a team member, check/ask on Discord, and I encourage you to fork this repository to add stuff.
 
